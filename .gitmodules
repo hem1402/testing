@@ -1,0 +1,3 @@
+[submodule "bone"]
+	path = bone
+	url = https://github.com/hem1402/BeagleBone.git
