@@ -1,3 +1,6 @@
 [submodule "bone"]
 	path = bone
 	url = https://github.com/hem1402/BeagleBone.git
+[submodule "testmodule1"]
+	path = testmodule1
+	url = https://github.com/hem1402/testsubmodule1.git
